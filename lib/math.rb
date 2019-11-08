@@ -31,7 +31,7 @@ modulo = (num1).remainder(num2)
 p modulo
 end
 
-
+modulo(34, 5)
 
 def square_root(num)
 square_root = Math.sqrt(num)
