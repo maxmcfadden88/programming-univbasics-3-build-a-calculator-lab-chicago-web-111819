@@ -27,8 +27,11 @@ end
 multiplication(4, 30)
 
 def modulo(num1, num2)
-
+modulo = (num1).remainder(num2)
+p modulo
 end
+
+
 
 def square_root(num)
 square_root = Math.sqrt(num)
